@@ -9,13 +9,13 @@ Output Format: Output the number of connected components.
 
 Sample 
 
-# Input:
+#### Input:
 
-4 2
+4 2 \n
 1 2
 3 2
-# Output:
+#### Output:
 2
-# Explanation:
+#### Explanation:
 
 There are two connected components here: {1, 2, 3} and {4}.
