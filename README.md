@@ -11,8 +11,10 @@ Sample
 
 #### Input:
 
-4 2 \n
+4 2
+
 1 2
+
 3 2
 #### Output:
 2
