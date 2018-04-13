@@ -1,5 +1,6 @@
-### Graph-problems
-# Problem: Connected Components:
+# Graph-problems
+data structres course: graph assignments 
+## Problem: Connected Components:
 Task: Given an undirected graph with 𝑛 vertices and 𝑚 edges, compute the number of connected components
 in it.
 
@@ -18,6 +19,3 @@ Sample
 3 2
 #### Output:
 2
-#### Explanation:
-
-There are two connected components here: {1, 2, 3} and {4}.
